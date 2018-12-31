@@ -32,4 +32,4 @@ Explanation: Rob house 2 (money = 2) and rob house 5 (money = 4).
 ```
 
 ## Reference
-[house-robber](https://leetcode.com/problems/house-robber/description/)
+[house-robber](https://leetcode.com/problems/house-robber/)
