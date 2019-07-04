@@ -18,6 +18,21 @@ My own place to practice algorithms i found in books or other sites that are int
 | House Robber                                                                                       | Recursion                                                                           |
 
 
+## How to execute them
+
+Javascript:
+```
+jest 01_reverse_string/test.js
+```
+
+Ruby:
+```
+ruby 01_reverse_string/test.rb
+```
+
+
+
+
 ## Glossary
 
 *Binary Search Tree*: In computer science, binary search trees (BST), sometimes called ordered or sorted binary trees, are a particular type of container: data structures that store "items" (such as numbers, names etc.) in memory.
